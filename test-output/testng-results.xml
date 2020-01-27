@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7120" started-at="2020-01-27T15:35:52 CET" finished-at="2020-01-27T15:35:59 CET">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7120" started-at="2020-01-27T15:35:52 CET" finished-at="2020-01-27T15:35:59 CET">
+      <class name="Formation.ConnectionTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:Formation.ConnectionTest@7f416310]" name="beforeTest" is-config="true" duration-ms="2505" started-at="2020-01-27T15:35:52 CET" finished-at="2020-01-27T15:35:55 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="demoTest()[pri:0, instance:Formation.ConnectionTest@7f416310]" name="demoTest" duration-ms="3830" started-at="2020-01-27T15:35:55 CET" finished-at="2020-01-27T15:35:58 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demoTest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:Formation.ConnectionTest@7f416310]" name="afterTest" is-config="true" duration-ms="748" started-at="2020-01-27T15:35:58 CET" finished-at="2020-01-27T15:35:59 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- Formation.ConnectionTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
